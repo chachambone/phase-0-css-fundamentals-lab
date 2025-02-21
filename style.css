@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+div {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+  }
+  p {
+    padding: 10px;
+    background-color: azure;
+  }
+  figure {
+    font-size: smaller;
+    caption-side: top;
+    width: 800px;
+  }
